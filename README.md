@@ -1,6 +1,6 @@
 ### Olá Mundo, meu nome é Jean Carlos Delai 👋
 
-- 🧑‍💻 Estou trabalhando como estágiario em desenvolvimento na Compass.uol.
+- 🧑‍💻 Estou trabalhando com desenvlvimento Web.
 - 🌱 Estou estudando desenvolvimento web, buscando uma vaga como desenvolvedor.
 - 📫 Como entrar em contato comigo: jean_vieceli@outlook.com.
 - ⚡ Curiosidade: Um dos meus hobbies e jogos eletrônicos.
