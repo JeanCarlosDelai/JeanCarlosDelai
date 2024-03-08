@@ -1,7 +1,8 @@
 ### Olá Mundo, meu nome é Jean Carlos Delai 👋
 
 - 🧑‍💻 Estou trabalhando com desenvlvimento Web.
-- 🌱 Estou estudando desenvolvimento web, buscando uma vaga como desenvolvedor.
+- 🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
+- 🌱 Estou trabalhando como desenvolvedor Web.
 - 📫 Como entrar em contato comigo: jean_vieceli@outlook.com.
 - ⚡ Curiosidade: Um dos meus hobbies e jogos eletrônicos.
 <br>
